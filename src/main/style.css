@@ -1,0 +1,16 @@
+body{
+background-color :#aee1f9;
+background-color:  linear-gradient(315deg, #aee1f9 0%, #f6ebe6 74%);
+background-repeat: no-repeat;
+height: 800px;
+text-align:center;
+}
+
+img{ 
+width: 10%;
+height: 15%;
+}   
+.bio{
+   font-size: 30px; 
+    font-family:cursive 
+}
